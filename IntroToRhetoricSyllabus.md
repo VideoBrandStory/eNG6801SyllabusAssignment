@@ -30,6 +30,14 @@ Assignments include weekly discussions with XXXX.
 - Situate arguments in XXXX
 - Critique XXXX
 
+## Course Weekly Formula
+- First Tuesday — _The Art of Rhetoric_
+- First Thursday — First Article (Discussion Post 1)
+- Second Tuesday — Losh piece
+- Second Thursday — Second Article (Discussion Post 2)
+- Third Tuesday — Third Article (Discussion Post 3)
+- Third Thursday — Project Due
+
 ## Materials and Texts
 
 Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
