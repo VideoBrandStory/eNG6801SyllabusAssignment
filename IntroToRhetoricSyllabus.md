@@ -128,7 +128,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Five: Title (Opens Day, Month 00, 2021)
+### Week Five: Exploring Pathos (Opens Day, Month 00, 2021)
 
 #### Tuesday
 
