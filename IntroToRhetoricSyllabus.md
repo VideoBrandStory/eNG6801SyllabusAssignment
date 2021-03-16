@@ -64,8 +64,8 @@ Additional recommended readings will be...
 |---|---|---|
 | 00 | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Tuesday, January 12, 2021  |
 | 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on tuesday's and two reponses weekly on thursday's  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
+| 00 | **Presentation** - XXXX.  | Day, Month 00, 2021  |
+| 00 | **Final Paper** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
