@@ -62,8 +62,8 @@ Additional recommended readings will be...
 
 | Points  | Assignment  | Due Date  |
 |---|---|---|
-| 00 | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Day, Month 00, 2021  |
-| 00 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Weekly  |
+| 00 | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Tuesday, January 12, 2021  |
+| 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on tuesday's and two reponses weekly on thursday's  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
@@ -86,7 +86,21 @@ Additional recommended readings will be...
 
 ## Course Schedule
 
-### Week One: Title (Opens Day, Month 00, 2021)
+### Week One: Title (Opens Tuesday, January 12, 2021)
+
+#### Tuesday
+
+- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
+- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
+- **Due: Activity Verification (Tues, Jan 12, 2021)**
+
+#### Thursday
+
+- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
+- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
+- **Due: Activity Verification (Day, Month 00, 2021)**
+
+### Week Two: Title (Opens Tuesday, January 19, 2021)
 
 #### Tuesday
 
@@ -100,7 +114,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Two: Title (Opens Day, Month 00, 2021)
+### Week Three: Title (Opens Tuesday, January 26, 2021)
 
 #### Tuesday
 
@@ -114,7 +128,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Three: Title (Opens Day, Month 00, 2021)
+### Week Four: Title (Opens Tuesday, February 02, 2021)
 
 #### Tuesday
 
@@ -170,7 +184,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Thurs, Feb 25, 2021)**
 
-### Week Eight: Title (Opens Day, Month 00, 2021)
+### Week Eight: Title (Opens Tuesday, March 02, 2021)
 
 #### Tuesday
 
@@ -184,7 +198,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Nine: Title (Opens Day, Month 00, 2021)
+### Week Nine: Title (Opens Tuesday, March 09, 2021)
 
 #### Tuesday
 
@@ -198,7 +212,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Ten: Title (Opens Day, Month 00, 2021)
+### Week Ten: Title (Opens Tuesday, March 16, 2021)
 
 #### Tuesday
 
@@ -212,7 +226,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Eleven: Title (Opens Day, Month 00, 2021)
+### Week Eleven: Title (Opens Tuesday, March 23, 2021)
 
 #### Tuesday
 
@@ -226,7 +240,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Twelve: Title (Opens Day, Month 00, 2021)
+### Week Twelve: Title (Opens Tuesday, March 30, 2021)
 
 #### Tuesday
 
@@ -240,7 +254,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Twelve: Title (Opens Day, Month 00, 2021)
+### Week Thirteen: Title (Opens Tuesday, April 06, 2021)
 
 #### Tuesday
 
@@ -254,7 +268,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Twelve: Title (Opens Day, Month 00, 2021)
+### Week Fourteen: Title (Opens Tuesday, April 13, 2021)
 
 #### Tuesday
 
@@ -268,7 +282,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Thirteen: Title (Opens Day, Month 00, 2021)
+### Week Fifteen: Title (Opens Tuesday, April 20, 2021)
 
 #### Tuesday
 
@@ -282,21 +296,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Fifteen: Title (Opens Day, Month 00, 2021)
-
-#### Tuesday
-
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
-
-#### Thursday
-
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
-
-### Week Sixteen: Title (Opens Day, Month 00, 2021)
+### Week Sixteen: Title (Opens Tuesday, May 04, 2021)
 
 #### Tuesday
 
