@@ -142,7 +142,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Five: Introduction to Pathos (Opens Tuesday, February 09, 2021)
+### Week Five: History of Pathos (Opens Tuesday, February 09, 2021)
 
 #### Tuesday
 
@@ -156,7 +156,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Thurs, Feb 11, 2021)**
 
-### Week Six: Title (Opens Tuesday, February 16, 2021)
+### Week Six: Modern Pathos (Opens Tuesday, February 16, 2021)
 
 #### Tuesday
 
@@ -170,7 +170,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Thurs, Feb 18, 2021)**
 
-### Week Seven: Title (Tuesday, February 23, 2021)
+### Week Seven: Applying Pathos (Tuesday, February 23, 2021)
 
 #### Tuesday
 
