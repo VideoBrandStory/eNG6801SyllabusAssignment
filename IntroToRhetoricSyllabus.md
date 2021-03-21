@@ -46,7 +46,7 @@ Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
 - Boyle, Casey. (2018). *Rhetoric as a posthuman practice*. Columbus, OH: Ohio State University Press.
 - Feenberg, Andrew. (1991). *Critical theory of technology*. New York, NY: Oxford University Press.
 - Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
-- Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2017). *Understanding Rhetoric: A Graphic Guide to Writing*. Macmillan Higher Education.
+- Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
@@ -115,7 +115,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Two: Title (Opens Tuesday, January 19, 2021)
+### Week Two: Logos (Opens Tuesday, January 19, 2021)
 
 #### Tuesday
 
@@ -129,7 +129,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Three: Title (Opens Tuesday, January 26, 2021)
+### Week Three: Logos (Opens Tuesday, January 26, 2021)
 
 #### Tuesday
 
@@ -143,7 +143,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Four: Title (Opens Tuesday, February 02, 2021)
+### Week Four: Logos (Opens Tuesday, February 02, 2021)
 
 #### Tuesday
 
