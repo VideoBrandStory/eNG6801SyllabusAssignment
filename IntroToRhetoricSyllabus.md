@@ -24,7 +24,7 @@ In this course, we will explore XXXX. As we survey works by influential artists 
 - XXXX
 - XXXX
 
-Assignments include weekly discussions with XXXX.
+Assignments include weekly discussions with fellow classmates.
 
 ---
 
