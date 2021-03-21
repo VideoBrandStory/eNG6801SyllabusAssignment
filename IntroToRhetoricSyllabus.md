@@ -1,12 +1,16 @@
-# Intro to Rhetoric
+# ENC 1010: Intro to Rhetoric
 
-## ENC 1010
+- **Instructor:** Christopher C. Odom, <christopher.odom@knights.ucf.edu>
+- **Instructor:** Stephanie Garcia, <garciastephanie@knights.ucf.edu>
+- **Instructor:** Matt Stapleton, <matthew.stapleton@ucf.edu>
+- **Office:** Zoom
 
-### Christopher C. Odom, <christopher.odom@knights.ucf.edu>
+---
 
-### Stephanie Garcia, <garciastephanie@knights.ucf.edu>
+## Table of Contents
 
-### Matt Stapleton, <matthew.stapleton@ucf.edu>
+XXXX
+---
 
 ## Course Description
 
@@ -22,6 +26,8 @@ In this course, we will explore XXXX. As we survey works by influential artists 
 
 Assignments include weekly discussions with XXXX.
 
+---
+
 ## Course Objectives
 
 - Develop XXXX
@@ -30,13 +36,7 @@ Assignments include weekly discussions with XXXX.
 - Situate arguments in XXXX
 - Critique XXXX
 
-## Course Weekly Formula
-- First Tuesday — _The Art of Rhetoric_
-- First Thursday — First Article (Discussion Post 1)
-- Second Tuesday — Losh piece
-- Second Thursday — Second Article (Discussion Post 2)
-- Third Tuesday — Third Article (Discussion Post 3)
-- Third Thursday — Project Due
+---
 
 ## Materials and Texts
 
@@ -58,6 +58,8 @@ Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
 
 Additional recommended readings will be...
 
+---
+
 ## Evaluation and Grading
 
 | Points  | Assignment  | Due Date  |
@@ -73,6 +75,8 @@ Additional recommended readings will be...
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 
+---
+
 ## Grading Scale
 
 94-100 A
@@ -84,7 +88,17 @@ Additional recommended readings will be...
 74-76 C
 70-73 C-
 
+---
+
 ## Course Schedule
+
+### Course Weekly Formula
+- First Tuesday — _The Art of Rhetoric_
+- First Thursday — First Article (Discussion Post 1)
+- Second Tuesday — Losh piece
+- Second Thursday — Second Article (Discussion Post 2)
+- Third Tuesday — Third Article (Discussion Post 3)
+- Third Thursday — Project Due
 
 ### Week One: Title (Opens Tuesday, January 12, 2021)
 
@@ -310,6 +324,8 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
+---
+
 ## Assignment Overviews
 
 - XXXX
@@ -323,6 +339,8 @@ Additional recommended readings will be...
 ### Academic Activity Verification
 
 We make you do this for financial aid, even if you don't have any.
+
+---
 
 ## Course Policies
 
@@ -383,6 +401,8 @@ Students who are deployed active duty military and/or National Guard personnel a
 Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
 
 Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
+
+---
 
 ## COVID-19 Statements and Policies
 
