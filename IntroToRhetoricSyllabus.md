@@ -339,7 +339,7 @@ Additional recommended readings will be...
 
 ### Academic Activity Verification
 
-We make you do this for financial aid, even if you don't have any.
+We make you do this for financial aid, even if you don't have any. It's basically the "are you a robot?" of higher education.
 
 ---
 
