@@ -312,11 +312,11 @@ Additional recommended readings will be...
 
 ## Assignment Overviews
 
-- XXXX
-- XXXX
-- XXXX
-- XXXX
-- XXXX
+- Academic Verification: Students must complete a breif one question quiz to satisfy enrollment verification.
+- Introductory Post: Students will respond to introduction discussion post and write a brief intro about research goals, interests, and background.
+- Weekly Discussion Post: Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
+- Presentation: Students will choose an article of their preferance and present it to the class. Students will present a powerpoint on the article and be able to answer any questions their classmates might have on it.
+- Final Paper: Students will complete a 1000 word essay on a topic of their choice centered around a form of Rhetoric.
 - XXXX
 - XXXX
 
