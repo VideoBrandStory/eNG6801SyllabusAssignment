@@ -67,8 +67,8 @@ Additional recommended readings will be...
 |---|---|---|
 | 00 | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Tuesday, January 12, 2021  |
 | 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on tuesday's and two reponses weekly on thursday's  |
-| 00 | **Presentation** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **Final Paper** - XXXX.  | Day, Month 00, 2021  |
+| 20 | **Presentation** - Choose an article you would like to present to the class. You are expected to become the subject matter expert on the reading and will answer any questions classmates may have following your powerpoint presentation. Presentations will be no more than 10 minutes.  | Students will choose their presentation date  |
+| 40 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
