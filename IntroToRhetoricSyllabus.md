@@ -1,12 +1,16 @@
-# Intro to Rhetoric
+# ENC 1010: Intro to Rhetoric
 
-## ENC 1010
+- **Instructor:** Christopher C. Odom, <christopher.odom@knights.ucf.edu>
+- **Instructor:** Stephanie Garcia, <garciastephanie@knights.ucf.edu>
+- **Instructor:** Matt Stapleton, <matthew.stapleton@ucf.edu>
+- **Office:** Zoom
 
-### Christopher C. Odom, <christopher.odom@knights.ucf.edu>
+---
 
-### Stephanie Garcia, <garciastephanie@knights.ucf.edu>
+## Table of Contents
 
-### Matt Stapleton, <matthew.stapleton@ucf.edu>
+XXXX
+---
 
 ## Course Description
 
@@ -22,6 +26,8 @@ In this course, we will explore XXXX. As we survey works by influential artists 
 
 Assignments include weekly discussions with XXXX.
 
+---
+
 ## Course Objectives
 
 - Develop XXXX
@@ -30,13 +36,7 @@ Assignments include weekly discussions with XXXX.
 - Situate arguments in XXXX
 - Critique XXXX
 
-## Course Weekly Formula
-- First Tuesday — _The Art of Rhetoric_
-- First Thursday — First Article (Discussion Post 1)
-- Second Tuesday — Losh piece
-- Second Thursday — Second Article (Discussion Post 2)
-- Third Tuesday — Third Article (Discussion Post 3)
-- Third Thursday — Project Due
+---
 
 ## Materials and Texts
 
@@ -45,7 +45,8 @@ Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
 - Ball, C. E. (2004). Show, not tell: The value of new media scholarship. *Computers and Composition. 21(4)*, 403-423.
 - Boyle, Casey. (2018). *Rhetoric as a posthuman practice*. Columbus, OH: Ohio State University Press.
 - Feenberg, Andrew. (1991). *Critical theory of technology*. New York, NY: Oxford University Press.
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
+- Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
+- Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
@@ -57,6 +58,8 @@ Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 
 Additional recommended readings will be...
+
+---
 
 ## Evaluation and Grading
 
@@ -73,6 +76,8 @@ Additional recommended readings will be...
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 
+---
+
 ## Grading Scale
 
 94-100 A
@@ -84,7 +89,17 @@ Additional recommended readings will be...
 74-76 C
 70-73 C-
 
+---
+
 ## Course Schedule
+
+### Course Weekly Formula
+- First Tuesday — _The Art of Rhetoric_
+- First Thursday — First Article (Discussion Post 1)
+- Second Tuesday — Losh piece
+- Second Thursday — Second Article (Discussion Post 2)
+- Third Tuesday — Third Article (Discussion Post 3)
+- Third Thursday — Project Due
 
 ### Week One: Title (Opens Tuesday, January 12, 2021)
 
@@ -100,7 +115,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Two: Title (Opens Tuesday, January 19, 2021)
+### Week Two: Logos (Opens Tuesday, January 19, 2021)
 
 #### Tuesday
 
@@ -114,7 +129,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Three: Title (Opens Tuesday, January 26, 2021)
+### Week Three: Logos (Opens Tuesday, January 26, 2021)
 
 #### Tuesday
 
@@ -128,7 +143,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Four: Title (Opens Tuesday, February 02, 2021)
+### Week Four: Logos (Opens Tuesday, February 02, 2021)
 
 #### Tuesday
 
@@ -310,6 +325,8 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
+---
+
 ## Assignment Overviews
 
 - Academic Verification: Students must complete a breif one question quiz to satisfy enrollment verification.
@@ -323,6 +340,8 @@ Additional recommended readings will be...
 ### Academic Activity Verification
 
 We make you do this for financial aid, even if you don't have any.
+
+---
 
 ## Course Policies
 
@@ -383,6 +402,8 @@ Students who are deployed active duty military and/or National Guard personnel a
 Students who represent the university in an authorized event or activity (for example, student-athletes) and who are unable to meet a course deadline due to a conflict with that event must provide the instructor with documentation in advance to arrange a make-up. No penalty will be applied.
 
 Students must notify their instructor in advance if they intend to miss class for a religious observance. For more information, see the [UCF policy](http://regulations.ucf.edu/chapter5/documents/5.020ReligiousObservancesFINALJan19.pdf).
+
+---
 
 ## COVID-19 Statements and Policies
 
