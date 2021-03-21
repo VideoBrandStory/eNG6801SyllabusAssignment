@@ -199,7 +199,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Thurs, Feb 25, 2021)**
 
-### Week Eight: Title (Opens Tuesday, March 02, 2021)
+### Week Eight: Ethos (Opens Tuesday, March 02, 2021)
 
 #### Tuesday
 
@@ -213,7 +213,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Nine: Title (Opens Tuesday, March 09, 2021)
+### Week Nine: Ethos (Opens Tuesday, March 09, 2021)
 
 #### Tuesday
 
@@ -227,7 +227,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Ten: Title (Opens Tuesday, March 16, 2021)
+### Week Ten: Ethos (Opens Tuesday, March 16, 2021)
 
 #### Tuesday
 
@@ -241,7 +241,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Eleven: Title (Opens Tuesday, March 23, 2021)
+### Week Eleven: Kairos (Opens Tuesday, March 23, 2021)
 
 #### Tuesday
 
@@ -255,7 +255,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Twelve: Title (Opens Tuesday, March 30, 2021)
+### Week Twelve: Kairos (Opens Tuesday, March 30, 2021)
 
 #### Tuesday
 
@@ -269,7 +269,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Thirteen: Title (Opens Tuesday, April 06, 2021)
+### Week Thirteen: Kairos (Opens Tuesday, April 06, 2021)
 
 #### Tuesday
 
@@ -283,19 +283,7 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Fourteen: Title (Opens Tuesday, April 13, 2021)
-
-#### Tuesday
-
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
-
-#### Thursday
-
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+### Week Fourteen: SPRING BREAK (Opens Tuesday, April 13, 2021)
 
 ### Week Fifteen: Title (Opens Tuesday, April 20, 2021)
 
