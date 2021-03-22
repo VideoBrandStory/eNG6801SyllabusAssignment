@@ -63,11 +63,8 @@ Additional recommended readings will be...
 | 20 | **Presentation** - Choose an article you would like to present to the class. You are expected to become the subject matter expert on the reading and will answer any questions classmates may have following your powerpoint presentation. Presentations will be no more than 10 minutes.  | Students will choose their presentation date  |
 | 20 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
 | 20 | **Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
+| 20 | **Participation** - Student participation will be based on in-class discussion with classmates and attention during class.
+| 10 | **Attendance** - Student attendance is important for this course, being centered around Socratic seminars.
 
 ---
 
