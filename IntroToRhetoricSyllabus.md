@@ -14,7 +14,7 @@
 
 ## Course Description
 
-ENC 1010 focuses on allowing students to develop a stronger understanding of Aristotle's basic building blocks of rhetoric, and how to apply them in rhetorical situations. Utilizing Elizabeth Losh's modern updates of rhetoric as well, in this course students should be able to work through their own understanding of what rhetoric in the real work is. Information covered in this course will include:
+ENC 1010 focuses on allowing students to develop a stronger understanding of Aristotle's basic building blocks of rhetoric, and how to apply them in rhetorical situations. Utilizing Elizabeth Losh's modern updates of rhetoric as well, in this course students should be able to work through their own understanding of what rhetoric is in the real world. Information covered in this course will include:
 
 - Logos (logical argument)
 - Pathos (empathic arguments)
