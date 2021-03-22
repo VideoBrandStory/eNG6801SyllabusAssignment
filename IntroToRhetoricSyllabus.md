@@ -1,6 +1,6 @@
 # ENC 1010: Intro to Rhetoric
 
-**Class meeting time:** Tuesday/Thursday 5:00 - 6:15
+**Class Meeting Time:** Tuesday/Thursday 5:00 - 6:15
 
 **Modality:** Face to Face
 
