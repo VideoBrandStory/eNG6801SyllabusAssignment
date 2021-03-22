@@ -299,19 +299,15 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Sixteen: Title (Opens Tuesday, May 04, 2021)
+### Week Sixteen: Final (Opens Tuesday, May 04, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- **Due: Final Paper (Tuesday, May 04, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- **Due: Group Project (Thursday, May 06, 2021)**
 
 ---
 
