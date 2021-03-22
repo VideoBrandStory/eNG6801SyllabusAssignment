@@ -161,15 +161,15 @@ Additional recommended readings will be...
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Tues, Feb 09, 2021)**
+- Read: Understanding Rhetoric - Issue # 3
+- Presentation on section by *scheduled student*
+- **Due: Initial Discussion Post (Tues, Feb 09, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Thurs, Feb 11, 2021)**
+- Read: Understanding Rhetoric - Issue # 3
+- Presentation on section by *scheduled student*
+- **Due: Discussion Post Response (Thurs, Feb 11, 2021)**
 
 ### Week Six: Modern Pathos (Opens Tuesday, February 16, 2021)
 
