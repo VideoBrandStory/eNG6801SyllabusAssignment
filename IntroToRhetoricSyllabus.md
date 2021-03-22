@@ -14,15 +14,15 @@ XXXX
 
 ## Course Description
 
-In this course, we will explore XXXX. As we survey works by influential artists and authors including XXXX, we will consider the influence of XXXX. Forms under examination include:
+In this course, we will explore the relationship between the four basic building blocks of rhetoric: logos, ethos, pathos, and kairos. As we survey works by influential artists and authors including Losh, we will consider the influence of Artistotle's classical rhetoric. Forms under examination include:
 
-- XXXX
-- XXXX
-- XXXX
-- XXXX
-- XXXX
-- XXXX
-- XXXX
+- Logos (logical argument)
+- Ethos (arguments centered around ethical considerations)
+- Pathos (empathic arguments)
+- Kairos (timing/situation of arguments)
+- Classical rhetoric (Ancient and pre-20th century)
+- Modern rhetoric (20th and 21st century)
+- Basic application of rhetorical strategies
 
 Assignments include weekly discussions with fellow classmates.
 
@@ -63,11 +63,8 @@ Additional recommended readings will be...
 | 20 | **Presentation** - Choose an article you would like to present to the class. You are expected to become the subject matter expert on the reading and will answer any questions classmates may have following your powerpoint presentation. Presentations will be no more than 10 minutes.  | Students will choose their presentation date  |
 | 20 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
 | 20 | **Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
+| 20 | **Participation** - Student participation will be based on in-class discussion with classmates and attention during class.
+| 10 | **Attendance** - Student attendance is important for this course, being centered around Socratic seminars.
 
 ---
 
