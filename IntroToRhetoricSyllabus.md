@@ -14,15 +14,15 @@ XXXX
 
 ## Course Description
 
-In this course, we will explore XXXX. As we survey works by influential artists and authors including XXXX, we will consider the influence of XXXX. Forms under examination include:
+In this course, we will explore the relationship between the four basic building blocks of rhetoric: logos, ethos, pathos, and kairos. As we survey works by influential artists and authors including XXXX, we will consider the influence of Artistotle's classical rhetoric. Forms under examination include:
 
-- XXXX
-- XXXX
-- XXXX
-- XXXX
-- XXXX
-- XXXX
-- XXXX
+- Logos (logical argument)
+- Ethos (arguments centered around ethical considerations)
+- Pathos (empathic arguments)
+- Kairos (timing/situation of arguments)
+- Classical rhetoric (Ancient and pre-20th century)
+- Modern rhetoric (20th and 21st century)
+- Basic application of rhetorical strategies
 
 Assignments include weekly discussions with fellow classmates.
 
