@@ -195,8 +195,8 @@ Additional recommended readings will be...
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
+- Read: Race, Rhetoric, and Technology - Chapter 2
+- Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thurs, Feb 25, 2021)**
 
 ### Week Eight: Ethos (Opens Tuesday, March 02, 2021)
