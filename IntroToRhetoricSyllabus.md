@@ -1,7 +1,8 @@
 # ENC 1010: Intro to Rhetoric
 
-# Class meeting time: Tuesday/Thursday XX:XX - XX:XX
-# Modality: Face to Face
+**Class meeting time:** Tuesday/Thursday XX:XX - XX:XX
+
+**Modality:** Face to Face
 
 - **Instructor:** Christopher C. Odom, <christopher.odom@knights.ucf.edu>
 - **Instructor:** Stephanie Garcia, <garciastephanie@knights.ucf.edu>
@@ -20,8 +21,8 @@ XXXX
 ENC 1010 focuses on allowing students to develop a stronger understanding of Artistotle's basic building blocks of rhetoric, and how to apply them in rhetorical situations. Utilizing Elizabeth Losh's modern updates of rhetoric as well, in this course students should be able to work through their own understanding of what rhetoric in the real work is. Information covered in this course will include:
 
 - Logos (logical argument)
-- Ethos (arguments centered around ethical considerations)
 - Pathos (empathic arguments)
+- Ethos (arguments centered around ethical considerations)
 - Kairos (timing/situation of arguments)
 - Classical rhetoric (Ancient and pre-20th century)
 - Modern rhetoric (20th and 21st century)
@@ -43,14 +44,11 @@ Assignments include weekly discussions with fellow classmates.
 
 This class will require Internet access and a laptop in-class for some in-class readings. Additionally, students will need to be prepared to take notes during the weekly in-class discussions for their own use.
 
-- Ball, C. E. (2004). Show, not tell: The value of new media scholarship. *Computers and Composition. 21(4)*, 403-423.
-- Boyle, Casey. (2018). *Rhetoric as a posthuman practice*. Columbus, OH: Ohio State University Press.
-- Feenberg, Andrew. (1991). *Critical theory of technology*. New York, NY: Oxford University Press.
 - Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
 - Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
 - Roberts, W. Rhys. (2008). *Artistotle's The Art of Rhetoric*. Megaphone eBooks. Available for download at http://www.wendelberger.com/downloads/Aristotle_Rhetoric.pdf.
 
-Additional articles and select chapters are noted in the Weekly Syllabus, and will be available as PDFs on the Webcourse page under the "Files -> Readings" section.
+Additional articles and select chapters are noted in the Weekly Syllabus, and will be available as PDFs on the Webcourses page under the "Files -> Readings" section.
 
 ---
 
@@ -116,7 +114,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Thursday
 
-- Read: _Art of Rhetoric_: Book 1 Part 1 (4-9)
+- Read: *Art of Rhetoric* - Book 1 Part 1 (4-9)
 - **Due: Activity Verification (Thurs, Jan 13, 2021)**
 
 ### Week Two: Logos (Opens Tuesday, January 19, 2021)
@@ -165,13 +163,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: Understanding Rhetoric - Issue # 3
+- Read: *Understanding Rhetoric* - Issue # 3
 - Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post (Tues, Feb 09, 2021)**
 
 #### Thursday
 
-- Read: Understanding Rhetoric - Issue # 3
+- Read: *Understanding Rhetoric* - Issue # 3
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thurs, Feb 11, 2021)**
 
@@ -179,13 +177,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: Understanding Rhetoric - Issue #8
+- Read: *Understanding Rhetoric* - Issue #8
 - Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post (Tues, Feb 16, 2021)**
 
 #### Thursday
 
-- Read: Understanding Rhetoric - Issue #8
+- Read: *Understanding Rhetoric* - Issue #8
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thurs, Feb 18, 2021)**
 
@@ -193,13 +191,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: Digital Griots - Part 2
+- Read: *Digital Griots* - Part 2
 - Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post (Tues, Feb 23, 2021)**
 
 #### Thursday
 
-- Read: Race, Rhetoric, and Technology - Chapter 2
+- Read: *Race, Rhetoric, and Technology* - Chapter 2
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thurs, Feb 25, 2021)**
 
@@ -209,11 +207,11 @@ In contrast to pathos which is a rhetorical persuasive appeal to human emotion, 
 
 #### Tuesday
 
-- *The Art of Rhetoric*: Chapter 3: De Oratore (Kennedy, 2008a)
+- Read: *Art of Rhetoric* - Book 2, Parts 12-17
 
 #### Thursday
 
-- Holland, J., & Fermor, B. (2017). Trump’s rhetoric at 100 days: Contradictions within effective emotional narratives. *Critical Studies on Security, 5*(2), 182–186. <https://doi.org/10.1080/21624887.2017.1355157>
+- Read: *Critical Studies on Security* https://doi.org/10.1080/21624887.2017.1355157
 - **Due: Ethos Discussion Post 1 (Thu, March 04, 2021)**
 
 ### Week Nine: Ethos and Society (Opens Tuesday, March 09, 2021)
@@ -222,11 +220,11 @@ Just because you can, does not mean you should. However, a skilled rhetorician s
 
 #### Tuesday
 
-- *Understanding Rhetoric*: Issue 4: Argument beyond Pro and Con
+- Read: *Understanding Rhetoric* - Issue #4
 
 #### Thursday
 
-- Ross, A. S., & Caldwell, D. (2020). ‘Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter. *Language & Communication, 70*, 13–27. <https://doi.org/10.1016/j.langcom.2019.09.003>
+- Read: *Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter* https://doi.org/10.1016/j.langcom.2019.09.003
 - **Due: Ethos Discussion Post 2 (Thu, Mar 11, 2021)**
 
 ### Week Ten: Ethos and Negativity (Opens Tuesday, March 16, 2021)
@@ -235,7 +233,7 @@ Negativity can be used in a rhetorical argument to arrest attention or unite peo
 
 #### Tuesday
 
-- Humphrey, M. (2021, February 8). *I analyzed all of Trump’s tweets to find out what he was really saying* [Non-Profit Independent News]. The Conversation. <http://theconversation.com/i-analyzed-all-of-trumps-tweets-to-find-out-what-he-was-really-saying-154532>
+- Read: *I analyzed all of Trump’s tweets to find out what he was really saying* http://theconversation.com/i-analyzed-all-of-trumps-tweets-to-find-out-what-he-was-really-saying-154532>
 - **Due: Ethos Discussion Post 3 (Tue, Mar 16, 2021)**
 
 #### Thursday
