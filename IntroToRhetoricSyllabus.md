@@ -63,19 +63,6 @@ Additional articles and select chapters are noted in the Weekly Syllabus, and wi
 
 ---
 
-## Grading Scale
-
-94-100 A
-90-93 A-
-87-89 B+
-84-86 B
-80-83 B-
-77-79 C+
-74-76 C
-70-73 C-
-
----
-
 ## Assignment Overviews
 
 - *Academic Verification:* Students must complete a brief one question quiz to satisfy enrollment verification.
