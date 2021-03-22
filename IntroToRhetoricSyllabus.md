@@ -59,7 +59,7 @@ Additional recommended readings will be...
 | Points  | Assignment  | Due Date  |
 |---|---|---|
 | 00 | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Tuesday, January 12, 2021  |
-| 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on Tuesday's and two reponses weekly on Thursday's  |
+| 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on Tuesday's and two responses weekly on Thursday's  |
 | 20 | **Presentation** - Choose an article you would like to present to the class. You are expected to become the subject matter expert on the reading and will answer any questions classmates may have following your powerpoint presentation. Presentations will be no more than 10 minutes.  | Students will choose their presentation date  |
 | 20 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
 | 20 | **Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
@@ -219,8 +219,6 @@ Just because you can, does not mean you should. However, a skilled rhetorician s
 
 Negativity can be used in a rhetorical argument to arrest attention or unite people behind a common enemy. Should there be limits on the use of negativity with when leveraging rhetorical ethos; why are why not?
 
-Describe the rhetorical ethos surrounding a social issue?
-
 #### Tuesday
 
 - Humphrey, M. (2021, February 8). *I analyzed all of Trump’s tweets to find out what he was really saying* [Non-Profit Independent News]. The Conversation. <http://theconversation.com/i-analyzed-all-of-trumps-tweets-to-find-out-what-he-was-really-saying-154532>
@@ -274,7 +272,7 @@ Describe the rhetorical ethos surrounding a social issue?
 
 ### Week Fourteen: SPRING BREAK (Opens Tuesday, April 13, 2021)
 
-### Week Fifteen: Title (Opens Tuesday, April 20, 2021)
+### Week Fifteen: Final Project (Opens Tuesday, April 20, 2021)
 
 #### Tuesday
 
