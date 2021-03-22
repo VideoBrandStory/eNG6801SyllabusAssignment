@@ -18,7 +18,7 @@ XXXX
 
 ## Course Description
 
-ENC 1010 focuses on allowing students to develop a stronger understanding of Artistotle's basic building blocks of rhetoric, and how to apply them in rhetorical situations. Utilizing Elizabeth Losh's modern updates of rhetoric as well, in this course students should be able to work through their own understanding of what rhetoric in the real work is. Information covered in this course will include:
+ENC 1010 focuses on allowing students to develop a stronger understanding of Aristotle's basic building blocks of rhetoric, and how to apply them in rhetorical situations. Utilizing Elizabeth Losh's modern updates of rhetoric as well, in this course students should be able to work through their own understanding of what rhetoric in the real work is. Information covered in this course will include:
 
 - Logos (logical argument)
 - Pathos (empathic arguments)
@@ -210,7 +210,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Thursday
 
-- Read: *Critical Studies on Security* https://doi.org/10.1080/21624887.2017.1355157
+- Read: *Critical Studies on Security*
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post 1 (Thu, March 04, 2021)**
 
@@ -223,7 +223,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Thursday
 
-- Read: *Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter* https://doi.org/10.1016/j.langcom.2019.09.003
+- Read: *Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter*
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post 2 (Thu, Mar 11, 2021)**
 
@@ -231,7 +231,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *I analyzed all of Trump’s tweets to find out what he was really saying* http://theconversation.com/i-analyzed-all-of-trumps-tweets-to-find-out-what-he-was-really-saying-154532>
+- Read: *I analyzed all of Trump’s tweets to find out what he was really saying*
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post 3 (Tue, Mar 16, 2021)**
 
@@ -288,7 +288,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *HashtagActivism* - Introduction https://doi.org/10.7551/mitpress/10858.003.0004
+- Read: *HashtagActivism* - Introduction
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post 1 (Tue, April 20, 2021)**
 
