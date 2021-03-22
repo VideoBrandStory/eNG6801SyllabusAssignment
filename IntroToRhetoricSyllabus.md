@@ -1,5 +1,8 @@
 # ENC 1010: Intro to Rhetoric
 
+# Class meeting time: Tuesday/Thursday XX:XX - XX:XX
+# Modality: Face to Face
+
 - **Instructor:** Christopher C. Odom, <christopher.odom@knights.ucf.edu>
 - **Instructor:** Stephanie Garcia, <garciastephanie@knights.ucf.edu>
 - **Instructor:** Matt Stapleton, <matthew.stapleton@ucf.edu>
@@ -14,7 +17,7 @@ XXXX
 
 ## Course Description
 
-In this course, we will explore the relationship between the four basic building blocks of rhetoric: logos, ethos, pathos, and kairos. As we survey works by influential artists and authors including Losh, we will consider the influence of Artistotle's classical rhetoric. Forms under examination include:
+ENC 1010 focuses on allowing students to develop a stronger understanding of Artistotle's basic building blocks of rhetoric, and how to apply them in rhetorical situations. Utilizing Elizabeth Losh's modern updates of rhetoric as well, in this course students should be able to work through their own understanding of what rhetoric in the real work is. Information covered in this course will include:
 
 - Logos (logical argument)
 - Ethos (arguments centered around ethical considerations)
@@ -30,27 +33,24 @@ Assignments include weekly discussions with fellow classmates.
 
 ## Course Objectives
 
-- Develop skills
-- Explore ideas
-- Analyze theories
-- Situate arguments in rhetoric
-- Critique arguments
+- Understand and be able to apply the concepts of logos, ethos, pathos, and kairos in various rhetorical situations, both in the classroom and in their everyday lives.
+- Be able to utilize basic rhetorical strategies to build their own  written arguments.
+- Recognize the occurrences of rhetoric in social media and on the UCF campus.
 
 ---
 
 ## Materials and Texts
 
-Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
+This class will require Internet access and a laptop in-class for some in-class readings. Additionally, students will need to be prepared to take notes during the weekly in-class discussions for their own use.
 
 - Ball, C. E. (2004). Show, not tell: The value of new media scholarship. *Computers and Composition. 21(4)*, 403-423.
 - Boyle, Casey. (2018). *Rhetoric as a posthuman practice*. Columbus, OH: Ohio State University Press.
 - Feenberg, Andrew. (1991). *Critical theory of technology*. New York, NY: Oxford University Press.
 - Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
 - Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
+- Roberts, W. Rhys. (2008). *Artistotle's The Art of Rhetoric*. Megaphone eBooks. Available for download at http://www.wendelberger.com/downloads/Aristotle_Rhetoric.pdf.
 
-Additional recommended readings will be...
+Additional articles and select chapters are noted in the Weekly Syllabus, and will be available as PDFs on the Webcourse page under the "Files -> Readings" section.
 
 ---
 
@@ -64,7 +64,7 @@ Additional recommended readings will be...
 | 20 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
 | 20 | **Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
 | 20 | **Participation** - Student participation will be based on in-class discussion with classmates and attention during class.
-| 10 | **Attendance** - Student attendance is important for this course, being centered around Socratic seminars.
+| 10 | **Attendance** - Student attendance is important for this course, with learning being centered around in-class and digital discussion.
 
 ---
 
@@ -81,6 +81,22 @@ Additional recommended readings will be...
 
 ---
 
+## Assignment Overviews
+
+- Academic Verification: Students must complete a brief one question quiz to satisfy enrollment verification.
+- Introductory Post: Students will respond to introduction discussion post and write a brief intro about research goals, interests, and background.
+- Weekly Discussion Post: Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
+- Participation: Students will engage in-class with their instructor and with one another during lectures and group discussions. These discussions are important as they serve as the basis for our learning activities, and as such student participation is essential.
+- Presentation: Students will choose an article of their preference and present it to the class. Students will present a powerpoint on the article and be able to answer any questions their classmates might have on it.
+- Final Paper: Students will complete a 1000 word essay on a topic of their choice centered around a form of Rhetoric.
+- Group Project: Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
+
+### Academic Activity Verification
+
+We make you do this for financial aid, even if you don't have any. It's basically the "are you a robot?" of higher education.
+
+---
+
 ## Course Schedule
 
 ### Course Weekly Formula
@@ -91,19 +107,17 @@ Additional recommended readings will be...
 - Third Tuesday — Third Article (Discussion Post 3)
 - Third Thursday — Project Due
 
-### Week One: Title (Opens Tuesday, January 12, 2021)
+### Week One: Course Introduction and Outline (Opens Tuesday, January 12, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Tues, Jan 12, 2021)**
+- In-class Review of Syllabus
+- **Due: Activity Verification (By Fri, Jan 13, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: _Art of Rhetoric_: Book 1 Part 1 (4-9)
+- **Due: Activity Verification (Thurs, Jan 13, 2021)**
 
 ### Week Two: Logos (Opens Tuesday, January 19, 2021)
 
@@ -295,22 +309,6 @@ Negativity can be used in a rhetorical argument to arrest attention or unite peo
 #### Thursday
 
 - **Due: Group Project (Thursday, May 06, 2021)**
-
----
-
-## Assignment Overviews
-
-- Academic Verification: Students must complete a brief one question quiz to satisfy enrollment verification.
-- Introductory Post: Students will respond to introduction discussion post and write a brief intro about research goals, interests, and background.
-- Weekly Discussion Post: Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
-- Presentation: Students will choose an article of their preference and present it to the class. Students will present a powerpoint on the article and be able to answer any questions their classmates might have on it.
-- Final Paper: Students will complete a 1000 word essay on a topic of their choice centered around a form of Rhetoric.
-- Group Project: Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
-
-
-### Academic Activity Verification
-
-We make you do this for financial aid, even if you don't have any. It's basically the "are you a robot?" of higher education.
 
 ---
 
