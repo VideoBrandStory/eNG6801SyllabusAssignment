@@ -107,14 +107,14 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Thursday
 
-- Read for class: *Art of Rhetoric* - Book 1 Part 1 (4-9)
+- Read for class: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 1 Part 1 (4-9)
 - **Due: Activity Verification (By Fri, Jan 15, 2021)**
 
 ### Week Two: Classical Logos (Opens Tuesday, January 19, 2021)
 
 #### Tuesday
 
-- Read for class: *Artistotle's Art of Rhetoric* - Book 1 Parts 2-3 (10-20)
+- Read for class: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 1 Parts 2-3 (10-20)
 - **Due: Initial Discussion Post Week 2**
 
 #### Thursday
@@ -126,7 +126,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Understanding Rhetoric* by Losh - Issue 2
+- Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 2
 - **Due: Initial Discussion Post Week 3**
 
 #### Thursday
@@ -151,13 +151,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Understanding Rhetoric* - Issue 3
+- Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 3
 - Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post (Tue, Feb 09, 2021)**
 
 #### Thursday
 
-- Read: *Understanding Rhetoric* - Issue 3
+- Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 3
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thur, Feb 11, 2021)**
 
@@ -165,13 +165,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Understanding Rhetoric* - Issue 8
+- Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 8
 - Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post (Tue, Feb 16, 2021)**
 
 #### Thursday
 
-- Read: *Understanding Rhetoric* - Issue 8
+- Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 8
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thur, Feb 18, 2021)**
 
@@ -179,13 +179,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Digital Griots* - Part 2
+- Read: *Digital Griots* by Adam J. Bnaks - Part 2
 - Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post (Tue, Feb 23, 2021)**
 
 #### Thursday
 
-- Read: *Race, Rhetoric, and Technology* - Chapter 2
+- Read: *Race, Rhetoric, and Technology* by Adam J. Banks - Chapter 2
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thur, Feb 25, 2021)**
 
@@ -193,46 +193,46 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Art of Rhetoric* - Book 2, Parts 12-17
-- Presentation on section by *scheduled student*
+- Read: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 2, Parts 12-17
+- **Due: Initial Discussion Post Week 8 (Tue, March 02, 2021)**
 
 #### Thursday
 
-- Read: *Critical Studies on Security*
-- Presentation on section by *scheduled student*
-- **Due: Discussion Post 1 (Thu, March 04, 2021)**
+- Read: *Critical Studies on Security* by Feenberg (Available on Webcourses)
+- **Due: Discussion Post Response Week 8 (Thu, March 04, 2021)**
 
 ### Week Nine: Ethos and Society (Opens Tuesday, March 09, 2021)
 
 #### Tuesday
 
-- Read: *Understanding Rhetoric* - Issue 4
+- Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 4
 - Presentation on section by *scheduled student*
+- **Due: Initial Discussion Post Week 9 (Tue, March 09, 2021)**
+
 
 #### Thursday
 
-- Read: *Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter*
-- Presentation on section by *scheduled student*
-- **Due: Discussion Post 2 (Thu, Mar 11, 2021)**
+- Read: *Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter* by Ross and Caldwell (Available on Webcourses)
+- **Due: Discussion Post Response Week 9 (Thu, Mar 11, 2021)**
 
 ### Week Ten: Ethos and Negativity (Opens Tuesday, March 16, 2021)
 
 #### Tuesday
 
-- Read: *I analyzed all of Trump’s tweets to find out what he was really saying*
-- Presentation on section by *scheduled student*
-- **Due: Discussion Post 3 (Tue, Mar 16, 2021)**
+- Read: *I analyzed all of Trump’s tweets to find out what he was really saying* by Humphrey (Available on Webcourses)
+- In-class discussion of Ethos Major Assignment
+- **Due: Ethos Major Assignment (Fri, Mar 19, 2021)**
 
 #### Thursday
 
-- Presentation on section by *scheduled student*
-- **Due: Ethos Project (Thu, Mar 18, 2021)**
+- In-class review of ethos
+- **Due: Ethos Major Assignment (Fri, Mar 19, 2021)**
 
 ### Week Eleven: Classical Kairos (Opens Tuesday, March 23, 2021)
 
 #### Tuesday
 
-- Read: *Artistotle's Art of Rhetoric* - Book 3 Parts 14-17 (213-232)
+- Read: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 3 Parts 14-17 (213-232)
 - **Due: Initial Discussion Post Week 11**
 
 #### Thursday
@@ -244,7 +244,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Understanding Rhetoric* by Losh - Issue 7
+- Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 7
 - **Due: Initial Discussion Post Week 12**
 
 #### Thursday
@@ -261,7 +261,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Thursday
 
-- In-class: Reivew of Kairos and Assignment Discussion
+- In-class review of Kairos and Assignment Discussion
 - **Due: Major Kairos Assignment Due Friday, April 9, 2021**
 
 ### Week Fourteen: SPRING BREAK (Opens Tuesday, April 13, 2021)
@@ -271,14 +271,12 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 #### Tuesday
 
 - Read: *HashtagActivism* - Introduction
-- Presentation on section by *scheduled student*
-- **Due: Discussion Post 1 (Tue, April 20, 2021)**
+- **Due: Initial Discussion Post Week 14 (Tue, April 20, 2021)**
 
 #### Thursday
 
 - Read: *A Case for Counterstory* - 6 Coalitional Action
-- Presentation on section by *scheduled student*
-- **Due: Discussion Post 2 (Thu, April 22, 2021)**
+- **Due: Discussion Post Response Week 14 (Thu, April 22, 2021)**
 
 ### Week Sixteen: Final (Opens Tuesday, May 04, 2021)
 
