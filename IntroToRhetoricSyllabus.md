@@ -44,6 +44,7 @@ Assignments include weekly discussions with fellow classmates.
 
 This class will require Internet access and a laptop in-class for some in-class readings. Additionally, students will need to be prepared to take notes during the weekly in-class discussions for their own use.
 
+- Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
 - Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
 - Roberts, W. Rhys. (2008). *Artistotle's The Art of Rhetoric*. Megaphone eBooks. Available for download at http://www.wendelberger.com/downloads/Aristotle_Rhetoric.pdf.
 
@@ -58,9 +59,9 @@ Additional articles and select chapters are noted in the Weekly Syllabus, and wi
 | 00 | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Tuesday, January 12, 2021  |
 | 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on Tuesday's and two responses weekly on Thursday's  |
 | 10 | **Logos Major Writing Assignment** - Students will write a 1-2 page paper on an advertisement or article of their choice that incorporates the rhetorical concept of "logos" heavily. This writing assignment will review different elements of logos in the advertisement.| Friday, February 5, 2021 |
-| 10 | **Pathos Major Assignment** - Students will write a 1-2 page paper on an advertisement or article of their choice that incorporates the rhetorical concept of "pathos" heavily. This writing assignment will review different elements of pathos in the advertisement.| Friday, February 26, 2021 |
-| 10 | **Ethos Major Assignment** - Students will create a 1-2 minute video on an issue of their choice that incorporates the rhetorical concept of "ethos" heavily. This video assignment will review different elements of ethos in audiovisual rhetoric.| Friday, March 19, 2021 |
-| 10 | **Kairos Major Assignment** - Students will write a 1-2 page paper on an advertisement or article of their choice that incorporates the rhetorical concept of "kairos" heavily. This writing assignment will review different elements of kairos in the advertisement.| Friday, April 9, 2021 |
+| 10 | **Pathos Major Assignment** - Please fill in information on assignment (Stephanie).| Friday, February 26, 2021 |
+| 10 | **Ethos Major Assignment** - Please fill in information on assignment (Chris).| Friday, March 19, 2021 |
+| 10 | **Kairos Major Assignment** - Students will write a 4-5 page paper on a news article selected by them. After analyzing the kairotic situation as discussed in class, students will apply any present concepts of logos, pathos, and ethos from the article and how they interact with one another.| Friday, April 9, 2021 |
 | 20 | **Final Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
 | 20 | **Participation** - Student participation will be based on in-class discussion with classmates and attention during class.
 | 10 | **Attendance** - Student attendance is important for this course, with learning being centered around in-class and digital discussion.
@@ -236,47 +237,41 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 - Presentation on section by *scheduled student*
 - **Due: Ethos Project (Thu, Mar 18, 2021)**
 
-### Week Eleven: Kairos (Opens Tuesday, March 23, 2021)
+### Week Eleven: Classical Kairos (Opens Tuesday, March 23, 2021)
 
 #### Tuesday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Read: *Artistotle's Art of Rhetoric* - Book 3 Parts 14-17 (213-232)
+- **Due: Initial Discussion Post Week 11**
 
 #### Thursday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Read: *Time, Times and the 'Right Time'* by John Smith - Available on Webcourses
+- **Due: Discussion Post Response 11**
 
-### Week Twelve: Kairos (Opens Tuesday, March 30, 2021)
+### Week Twelve: Modern Kairos (Opens Tuesday, March 30, 2021)
 
 #### Tuesday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Read: *Understanding Rhetoric* by Losh - Issue 7
+- **Due: Initial Discussion Post Week 12**
 
 #### Thursday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Bring to class: An example of an advertisement and define the kairotic situation
+- **Due: Discussion Post Response Week 12**
 
-### Week Thirteen: Kairos (Opens Tuesday, April 06, 2021)
+### Week Thirteen: Application of Kairos (Opens Tuesday, April 06, 2021)
 
 #### Tuesday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Read: *It's Complicated: The Social Lives of Networked Teens* by danah boyd - Available on Webcourses
+- **Due: Major Kairos Assignment Due Friday, April 9, 2021**
 
 #### Thursday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- In-class: Reivew of Kairos and Assignment Discussion
+- **Due: Major Kairos Assignment Due Friday, April 9, 2021**
 
 ### Week Fourteen: SPRING BREAK (Opens Tuesday, April 13, 2021)
 
