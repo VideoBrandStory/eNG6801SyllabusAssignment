@@ -194,45 +194,42 @@ Additional recommended readings will be...
 
 ### Week Eight: Ethos (Opens Tuesday, March 02, 2021)
 
+XXXX. XXX?
+
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- *The Art of Rhetoric*: Chapter 3: De Oratore (Kennedy, 2008a)
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Drakulich, K., Wozniak, K. H., Hagan, J., & Johnson, D. (2020). Race and policing in the 2016 presidential election: Black lives matter, the police, and dog whistle politics. *Criminology, 58* (2), 370–402. <https://doi.org/10.1111/1745-9125.12239>
+- **Due: Ethos Discussion Post 1 (Tues, March 02, 2021)**
 
 ### Week Nine: Ethos (Opens Tuesday, March 09, 2021)
 
+XXXX. XXX?
+
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- *Understanding Rhetoric*: Issue 4: Argument beyond Pro and Con
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Mason, G. (2020). Blue lives matter and hate crime law. *Race and Justice*. <https://doi.org/10.1177/2153368720933665>
+- **Due: Ethos Discussion Post 2 (Thu, Mar 04, 2021)**
 
 ### Week Ten: Ethos (Opens Tuesday, March 16, 2021)
 
+XXXX. XXX?
+
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Chason, R., & Schmidt, S. (2016, January 14). *The freedom to assemble, in two acts* [Newspaper]. Washington Post. <https://www.washingtonpost.com/dc-md-va/interactive/2021/blm-protest-capitol-riot-police-comparison/>
+- **Due: Ethos Discussion Post 1 (Tue, Mar 09, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- **Due: Ethos Project (Thu, Mar 11, 2021)**
 
 ### Week Eleven: Kairos (Opens Tuesday, March 23, 2021)
 
@@ -306,12 +303,12 @@ Additional recommended readings will be...
 
 ## Assignment Overviews
 
-- Academic Verification: Students must complete a breif one question quiz to satisfy enrollment verification.
+- Academic Verification: Students must complete a brief one question quiz to satisfy enrollment verification.
 - Introductory Post: Students will respond to introduction discussion post and write a brief intro about research goals, interests, and background.
 - Weekly Discussion Post: Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
-- Presentation: Students will choose an article of their preferance and present it to the class. Students will present a powerpoint on the article and be able to answer any questions their classmates might have on it.
+- Presentation: Students will choose an article of their preference and present it to the class. Students will present a powerpoint on the article and be able to answer any questions their classmates might have on it.
 - Final Paper: Students will complete a 1000 word essay on a topic of their choice centered around a form of Rhetoric.
-- Group Poject: Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
+- Group Project: Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
 
 
 ### Academic Activity Verification
