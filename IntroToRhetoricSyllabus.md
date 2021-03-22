@@ -11,10 +11,6 @@
 
 ---
 
-## Table of Contents
-
-XXXX
----
 
 ## Course Description
 
