@@ -30,11 +30,11 @@ Assignments include weekly discussions with fellow classmates.
 
 ## Course Objectives
 
-- Develop XXXX
-- Explore XXXX
-- Analyze XXXX
-- Situate arguments in XXXX
-- Critique XXXX
+- Develop skills
+- Explore ideas
+- Analyze theories
+- Situate arguments in rhetoric
+- Critique arguments
 
 ---
 
