@@ -98,14 +98,6 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 ## Course Schedule
 
-### Course Weekly Formula
-- First Tuesday — *Art of Rhetoric*
-- First Thursday — First Article (Discussion 1)
-- Second Tuesday — *Understanding Rhetoric*
-- Second Thursday — Second Article (Discussion 2)
-- Third Tuesday — Third Article (Discussion 3)
-- Third Thursday — Project Due
-
 ### Week One: Course Introduction and Outline (Opens Tuesday, January 12, 2021)
 
 #### Tuesday
