@@ -45,6 +45,8 @@ Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
 - Ball, C. E. (2004). Show, not tell: The value of new media scholarship. *Computers and Composition. 21(4)*, 403-423.
 - Banks, Adam J. 2011. Digital Griots: African American Rhetoric in a Multimedia Age.
 Southern Illinois University Press.
+- Banks, Adam. (2005). Race, rhetoric, and technology: Searching for higher ground. Urbana, IL:
+NCTE.
 - Boyle, Casey. (2018). *Rhetoric as a posthuman practice*. Columbus, OH: Ohio State University Press.
 - Feenberg, Andrew. (1991). *Critical theory of technology*. New York, NY: Oxford University Press.
 - Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
@@ -179,7 +181,7 @@ Additional recommended readings will be...
 
 - Read: Understanding Rhetoric - Issue #8
 - Presentation on section by *scheduled student*
-- **Due: Initial Discussion (Tues, Feb 16, 2021)**
+- **Due: Initial Discussion Post (Tues, Feb 16, 2021)**
 
 #### Thursday
 
@@ -191,15 +193,15 @@ Additional recommended readings will be...
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Tues, Feb 23, 2021)**
+- Read: Digital Griots - Part 2
+- Presentation on section by *scheduled student*
+- **Due: Initial Discussion Post (Tues, Feb 23, 2021)**
 
 #### Thursday
 
 - Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Thurs, Feb 25, 2021)**
+- **Due: Discussion Post Response (Thurs, Feb 25, 2021)**
 
 ### Week Eight: Ethos (Opens Tuesday, March 02, 2021)
 
