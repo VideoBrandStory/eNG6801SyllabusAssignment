@@ -36,7 +36,7 @@ Assignments include weekly discussions with fellow classmates.
 - Understand and be able to apply the concepts of logos, ethos, pathos, and kairos in various rhetorical situations, both in the classroom and in their everyday lives.
 - Be able to utilize basic rhetorical strategies to build their own  written arguments.
 - Recognize the occurrances of rhetoric in social media and on the UCF campus.
-- 
+
 ---
 
 ## Materials and Texts
