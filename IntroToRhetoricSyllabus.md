@@ -14,7 +14,7 @@ XXXX
 
 ## Course Description
 
-In this course, we will explore the relationship between the four basic building blocks of rhetoric: logos, ethos, pathos, and kairos. As we survey works by influential artists and authors including XXXX, we will consider the influence of Artistotle's classical rhetoric. Forms under examination include:
+In this course, we will explore the relationship between the four basic building blocks of rhetoric: logos, ethos, pathos, and kairos. As we survey works by influential artists and authors including Losh, we will consider the influence of Artistotle's classical rhetoric. Forms under examination include:
 
 - Logos (logical argument)
 - Ethos (arguments centered around ethical considerations)
