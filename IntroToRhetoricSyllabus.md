@@ -43,6 +43,8 @@ Assignments include weekly discussions with fellow classmates.
 Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
 
 - Ball, C. E. (2004). Show, not tell: The value of new media scholarship. *Computers and Composition. 21(4)*, 403-423.
+- Banks, Adam J. 2011. Digital Griots: African American Rhetoric in a Multimedia Age.
+Southern Illinois University Press.
 - Boyle, Casey. (2018). *Rhetoric as a posthuman practice*. Columbus, OH: Ohio State University Press.
 - Feenberg, Andrew. (1991). *Critical theory of technology*. New York, NY: Oxford University Press.
 - Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
