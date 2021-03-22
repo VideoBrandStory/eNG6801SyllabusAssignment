@@ -260,12 +260,12 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- In-Class Presentations of Final Group Project
+- In-class Presentations of Final Group Project
 - **Due: Final Group Project Presentations (Thursday, May 06, 2021)**
 
 #### Thursday
 
-- In-Class Presentations of Final Group Project
+- In-class Presentations of Final Group Project
 - **Due: Final Group Project Presentations (Thursday, May 06 2021)**
 
 ---
