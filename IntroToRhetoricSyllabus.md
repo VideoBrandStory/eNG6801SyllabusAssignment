@@ -189,9 +189,9 @@ Additional recommended readings will be...
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thurs, Feb 25, 2021)**
 
-### Week Eight: Ethos (Opens Tuesday, March 02, 2021)
+### Week Eight: Ancient Ethos (Opens Tuesday, March 02, 2021)
 
-XXXX. How is ethos being used by De Oratore as opposed to Donald Trump?
+In contrast to pathos which is a rhetorical persuasive appeal to human emotion, ethos relies upon the credibility of the person delivering the arguments. How is ethos being used by De Oratore as opposed to Donald Trump?
 
 #### Tuesday
 
@@ -202,9 +202,9 @@ XXXX. How is ethos being used by De Oratore as opposed to Donald Trump?
 - Holland, J., & Fermor, B. (2017). Trump’s rhetoric at 100 days: Contradictions within effective emotional narratives. *Critical Studies on Security, 5*(2), 182–186. <https://doi.org/10.1080/21624887.2017.1355157>
 - **Due: Ethos Discussion Post 1 (Thu, March 04, 2021)**
 
-### Week Nine: Ethos (Opens Tuesday, March 09, 2021)
+### Week Nine: Ethos and Society (Opens Tuesday, March 09, 2021)
 
-XXXX. What role does ethos play in Trump's use of Twitter?
+Just because you can, does not mean you should. However, a skilled rhetorician should skillfully understand both sides of any arguments. What role does ethos play in Trump's use of Twitter?
 
 #### Tuesday
 
@@ -215,9 +215,11 @@ XXXX. What role does ethos play in Trump's use of Twitter?
 - Ross, A. S., & Caldwell, D. (2020). ‘Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter. *Language & Communication, 70*, 13–27. <https://doi.org/10.1016/j.langcom.2019.09.003>
 - **Due: Ethos Discussion Post 2 (Thu, Mar 11, 2021)**
 
-### Week Ten: Ethos (Opens Tuesday, March 16, 2021)
+### Week Ten: Ethos and Negativity (Opens Tuesday, March 16, 2021)
 
-XXXX. Describe the rhetorical ethos surrounding a social issue?
+Negativity can be used in a rhetorical argument to arrest attention or unite people behind a common enemy. Should there be limits on the use of negativity with when leveraging rhetorical ethos; why are why not?
+
+Describe the rhetorical ethos surrounding a social issue?
 
 #### Tuesday
 
