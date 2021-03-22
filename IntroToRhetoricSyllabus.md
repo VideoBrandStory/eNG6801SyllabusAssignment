@@ -58,9 +58,11 @@ Additional articles and select chapters are noted in the Weekly Syllabus, and wi
 |---|---|---|
 | 00 | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Tuesday, January 12, 2021  |
 | 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on Tuesday's and two responses weekly on Thursday's  |
-| 20 | **Presentation** - Choose an article you would like to present to the class. You are expected to become the subject matter expert on the reading and will answer any questions classmates may have following your powerpoint presentation. Presentations will be no more than 10 minutes.  | Students will choose their presentation date  |
-| 20 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
-| 20 | **Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
+| 10 | **Logos Major Writing Assignment** - Students will write a 1-2 page paper on an advertisement or article of their choice that incorporates the rhetorical concept of "logos" heavily. This writing assignment will review different elements of logos in the advertisement.| Friday, February 5, 2021 |
+| 10 | **Pathos Major Assignment** - Students will write a 1-2 page paper on an advertisement or article of their choice that incorporates the rhetorical concept of "logos" heavily. This writing assignment will review different elements of logos in the advertisement.| Friday, February 26, 2021 |
+| 10 | **Ethos Major Assignment** - Students will write a 1-2 page paper on an advertisement or article of their choice that incorporates the rhetorical concept of "logos" heavily. This writing assignment will review different elements of logos in the advertisement.| Friday, March 19, 2021 |
+| 10 | **Kairos Major Assignment** - Students will write a 1-2 page paper on an advertisement or article of their choice that incorporates the rhetorical concept of "logos" heavily. This writing assignment will review different elements of logos in the advertisement.| Friday, April 9, 2021 |
+| 20 | **Final Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
 | 20 | **Participation** - Student participation will be based on in-class discussion with classmates and attention during class.
 | 10 | **Attendance** - Student attendance is important for this course, with learning being centered around in-class and digital discussion.
 
@@ -109,55 +111,50 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- In-class Review of Syllabus
-- **Due: Activity Verification (By Fri, Jan 13, 2021)**
+- In-class: Review of Syllabus
+- **Due: Activity Verification (By Fri, Jan 15, 2021)**
 
 #### Thursday
 
-- Read: *Art of Rhetoric* - Book 1 Part 1 (4-9)
-- **Due: XXXX (Thur, Jan 13, 2021)**
+- Read for class: *Art of Rhetoric* - Book 1 Part 1 (4-9)
+- **Due: Activity Verification (By Fri, Jan 15, 2021)**
 
-### Week Two: Logos (Opens Tuesday, January 19, 2021)
+### Week Two: Classical Logos (Opens Tuesday, January 19, 2021)
 
 #### Tuesday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Read for class: *Artistotle's Art of Rhetoric* - Book 1 Parts 2-3 (10-20)
+- **Due: Initial Discussion Post Week 2**
 
 #### Thursday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Read: *Mythos and Logos* by Robert L. Flower (Available on Webcourses)
+- **Due: Discussion Post Response Week 2**
 
-### Week Three: Logos (Opens Tuesday, January 26, 2021)
+### Week Three: Modern Logos (Opens Tuesday, January 26, 2021)
 
 #### Tuesday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Read: *Understanding Rhetoric* by Losh - Issue 2
+- **Due: Initial Discussion Post Week 3**
 
 #### Thursday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Bring to class: An example of an advertisement that only uses logos
+- **Due: Discussion Post Response Week 3**
 
-### Week Four: Logos (Opens Tuesday, February 02, 2021)
+### Week Four: Applying Logos (Opens Tuesday, February 02, 2021)
 
 #### Tuesday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- Read: *Rhetoric and the Anti-Logos Doughball* by Rosa Eberly - Available on Webcourses
+- In-class discussion of First Major Writing Assignment
+- **Due: First Major Assignment (Friday, February 5, 2021)**
 
 #### Thursday
 
-- Read: *Title* - XXXX
-- Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- In-class review of logos
+- **Due: First Major Assignment (Friday, February 5, 2021)**
 
 ### Week Five: History of Pathos (Opens Tuesday, February 09, 2021)
 
