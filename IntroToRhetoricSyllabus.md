@@ -98,11 +98,11 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 ## Course Schedule
 
 ### Course Weekly Formula
-- First Tuesday — _The Art of Rhetoric_
-- First Thursday — First Article (Discussion Post 1)
-- Second Tuesday — Losh piece
-- Second Thursday — Second Article (Discussion Post 2)
-- Third Tuesday — Third Article (Discussion Post 3)
+- First Tuesday — *Art of Rhetoric*
+- First Thursday — First Article (Discussion 1)
+- Second Tuesday — *Understanding Rhetoric*
+- Second Thursday — Second Article (Discussion 2)
+- Third Tuesday — Third Article (Discussion 3)
 - Third Thursday — Project Due
 
 ### Week One: Course Introduction and Outline (Opens Tuesday, January 12, 2021)
@@ -115,19 +115,19 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 #### Thursday
 
 - Read: *Art of Rhetoric* - Book 1 Part 1 (4-9)
-- **Due: XXXX (Thurs, Jan 13, 2021)**
+- **Due: XXXX (Thur, Jan 13, 2021)**
 
 ### Week Two: Logos (Opens Tuesday, January 19, 2021)
 
 #### Tuesday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
@@ -135,13 +135,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
@@ -149,13 +149,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
@@ -165,13 +165,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 - Read: *Understanding Rhetoric* - Issue 3
 - Presentation on section by *scheduled student*
-- **Due: Initial Discussion Post (Tues, Feb 09, 2021)**
+- **Due: Initial Discussion Post (Tue, Feb 09, 2021)**
 
 #### Thursday
 
 - Read: *Understanding Rhetoric* - Issue 3
 - Presentation on section by *scheduled student*
-- **Due: Discussion Post Response (Thurs, Feb 11, 2021)**
+- **Due: Discussion Post Response (Thur, Feb 11, 2021)**
 
 ### Week Six: Modern Pathos (Opens Tuesday, February 16, 2021)
 
@@ -179,13 +179,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 - Read: *Understanding Rhetoric* - Issue 8
 - Presentation on section by *scheduled student*
-- **Due: Initial Discussion Post (Tues, Feb 16, 2021)**
+- **Due: Initial Discussion Post (Tue, Feb 16, 2021)**
 
 #### Thursday
 
 - Read: *Understanding Rhetoric* - Issue 8
 - Presentation on section by *scheduled student*
-- **Due: Discussion Post Response (Thurs, Feb 18, 2021)**
+- **Due: Discussion Post Response (Thur, Feb 18, 2021)**
 
 ### Week Seven: Applying Pathos (Tuesday, February 23, 2021)
 
@@ -193,13 +193,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 - Read: *Digital Griots* - Part 2
 - Presentation on section by *scheduled student*
-- **Due: Initial Discussion Post (Tues, Feb 23, 2021)**
+- **Due: Initial Discussion Post (Tue, Feb 23, 2021)**
 
 #### Thursday
 
 - Read: *Race, Rhetoric, and Technology* - Chapter 2
 - Presentation on section by *scheduled student*
-- **Due: Discussion Post Response (Thurs, Feb 25, 2021)**
+- **Due: Discussion Post Response (Thur, Feb 25, 2021)**
 
 ### Week Eight: Ancient Ethos (Opens Tuesday, March 02, 2021)
 
@@ -212,7 +212,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 - Read: *Critical Studies on Security* https://doi.org/10.1080/21624887.2017.1355157
 - Presentation on section by *scheduled student*
-- **Due: Ethos Discussion Post 1 (Thu, March 04, 2021)**
+- **Due: Discussion Post 1 (Thu, March 04, 2021)**
 
 ### Week Nine: Ethos and Society (Opens Tuesday, March 09, 2021)
 
@@ -225,7 +225,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 - Read: *Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter* https://doi.org/10.1016/j.langcom.2019.09.003
 - Presentation on section by *scheduled student*
-- **Due: Ethos Discussion Post 2 (Thu, Mar 11, 2021)**
+- **Due: Discussion Post 2 (Thu, Mar 11, 2021)**
 
 ### Week Ten: Ethos and Negativity (Opens Tuesday, March 16, 2021)
 
@@ -233,7 +233,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 - Read: *I analyzed all of Trump’s tweets to find out what he was really saying* http://theconversation.com/i-analyzed-all-of-trumps-tweets-to-find-out-what-he-was-really-saying-154532>
 - Presentation on section by *scheduled student*
-- **Due: Ethos Discussion Post 3 (Tue, Mar 16, 2021)**
+- **Due: Discussion Post 3 (Tue, Mar 16, 2021)**
 
 #### Thursday
 
@@ -244,13 +244,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
@@ -258,13 +258,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
@@ -272,13 +272,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *Title* - XXXX
 - Presentation on section by *scheduled student*
 - **Due: XXXX (Day, Month 00, 2021)**
 
@@ -288,25 +288,27 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *HashtagActivism* - Introduction https://doi.org/10.7551/mitpress/10858.003.0004
 - Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- **Due: Discussion Post 1 (Tue, April 20, 2021)**
 
 #### Thursday
 
-- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Read: *A Case for Counterstory* - 6 Coalitional Action
 - Presentation on section by *scheduled student*
-- **Due: XXXX (Day, Month 00, 2021)**
+- **Due: Discussion Post 2 (Thu, April 22, 2021)**
 
 ### Week Sixteen: Final (Opens Tuesday, May 04, 2021)
 
 #### Tuesday
 
-- **Due: Final Paper (Tuesday, May 04, 2021)**
+- In-Class Presentations of Final Group Project
+- - **Due: Final Group Project (Thursday, May 06, 2021)**
 
 #### Thursday
 
-- **Due: Group Project (Thursday, May 06, 2021)**
+- In-Class Presentations of Final Group Project
+- **Due: Group Project Reflection Paper (Tuesday, May 04, 2021)**
 
 ---
 
