@@ -14,7 +14,7 @@ XXXX
 
 ## Course Description
 
-In this course, we will explore the relationship between the four basic building blocks of rhetoric: logos, ethos, pathos, and kairos. As we survey works by influential artists and authors including Losh, we will consider the influence of Artistotle's classical rhetoric. Forms under examination include:
+ENC 1010 focuses on allowing students to develop a stronger understanding of Artistotle's basic building blocks of rhetoric, and how to apply them in rhetorical situations. Utilizing Elizabeth Losh's modern updates of rhetoric as well, in this course students should be able to work through their own understanding of what rhetoric in the real work is. Information covered in this course will include:
 
 - Logos (logical argument)
 - Ethos (arguments centered around ethical considerations)
@@ -30,27 +30,30 @@ Assignments include weekly discussions with fellow classmates.
 
 ## Course Objectives
 
-- Develop skills
-- Explore ideas
-- Analyze theories
-- Situate arguments in rhetoric
-- Critique arguments
-
+- Understand and be able to apply the concepts of logos, ethos, pathos, and kairos in various rhetorical situations, both in the classroom and in their everyday lives.
+- Be able to utilize basic rhetorical strategies to build their own  written arguments.
+- Recognize the occurrances of rhetoric in social media and on the UCF campus.
+- 
 ---
 
 ## Materials and Texts
 
-Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
+For the class readings, you will need to acquire:
+
+- Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
+- Roberts, W. Rhys. (2008). *Artistotle's The Art of Rhetoric*. Megaphone eBooks. Available for download at http://www.wendelberger.com/downloads/Aristotle_Rhetoric.pdf.
+
+Additional articles and select chapters are noted in the Weekly Syllabus, and will be available as PDFs on the Webcourse page under the "Files -> Readings" section.
+
+<strike>Physical Books, Hyperlinks, eBooks, Open Access, PDFs...
 
 - Ball, C. E. (2004). Show, not tell: The value of new media scholarship. *Computers and Composition. 21(4)*, 403-423.
 - Boyle, Casey. (2018). *Rhetoric as a posthuman practice*. Columbus, OH: Ohio State University Press.
 - Feenberg, Andrew. (1991). *Critical theory of technology*. New York, NY: Oxford University Press.
 - Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
-- Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 
-Additional recommended readings will be...
+Additional recommended readings will be...</strike>
 
 ---
 
@@ -91,19 +94,17 @@ Additional recommended readings will be...
 - Third Tuesday — Third Article (Discussion Post 3)
 - Third Thursday — Project Due
 
-### Week One: Title (Opens Tuesday, January 12, 2021)
+### Week One: Course Introduction and Outline (Opens Tuesday, January 12, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Tues, Jan 12, 2021)**
+- In-class Review of Syllabus
+- **Due: Activity Verification (By Fri, Jan 13, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: _Art of Rhetoric_: Book 1 Part 1 (4-9)
+- **Due: Activity Verification (Thurs, Jan 13, 2021)**
 
 ### Week Two: Logos (Opens Tuesday, January 19, 2021)
 
@@ -189,9 +190,9 @@ Additional recommended readings will be...
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thurs, Feb 25, 2021)**
 
-### Week Eight: Ancient Ethos (Opens Tuesday, March 02, 2021)
+### Week Eight: Ethos (Opens Tuesday, March 02, 2021)
 
-In contrast to pathos which is a rhetorical persuasive appeal to human emotion, ethos relies upon the credibility of the person delivering the arguments. How is ethos being used by De Oratore as opposed to Donald Trump?
+XXXX. XXX?
 
 #### Tuesday
 
@@ -199,12 +200,12 @@ In contrast to pathos which is a rhetorical persuasive appeal to human emotion, 
 
 #### Thursday
 
-- Holland, J., & Fermor, B. (2017). Trump’s rhetoric at 100 days: Contradictions within effective emotional narratives. *Critical Studies on Security, 5*(2), 182–186. <https://doi.org/10.1080/21624887.2017.1355157>
-- **Due: Ethos Discussion Post 1 (Thu, March 04, 2021)**
+- Drakulich, K., Wozniak, K. H., Hagan, J., & Johnson, D. (2020). Race and policing in the 2016 presidential election: Black lives matter, the police, and dog whistle politics. *Criminology, 58* (2), 370–402. <https://doi.org/10.1111/1745-9125.12239>
+- **Due: Ethos Discussion Post 1 (Tues, March 02, 2021)**
 
-### Week Nine: Ethos and Society (Opens Tuesday, March 09, 2021)
+### Week Nine: Ethos (Opens Tuesday, March 09, 2021)
 
-Just because you can, does not mean you should. However, a skilled rhetorician should skillfully understand both sides of any arguments. What role does ethos play in Trump's use of Twitter?
+XXXX. XXX?
 
 #### Tuesday
 
@@ -212,23 +213,21 @@ Just because you can, does not mean you should. However, a skilled rhetorician s
 
 #### Thursday
 
-- Ross, A. S., & Caldwell, D. (2020). ‘Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter. *Language & Communication, 70*, 13–27. <https://doi.org/10.1016/j.langcom.2019.09.003>
-- **Due: Ethos Discussion Post 2 (Thu, Mar 11, 2021)**
+- Mason, G. (2020). Blue lives matter and hate crime law. *Race and Justice*. <https://doi.org/10.1177/2153368720933665>
+- **Due: Ethos Discussion Post 2 (Thu, Mar 04, 2021)**
 
-### Week Ten: Ethos and Negativity (Opens Tuesday, March 16, 2021)
+### Week Ten: Ethos (Opens Tuesday, March 16, 2021)
 
-Negativity can be used in a rhetorical argument to arrest attention or unite people behind a common enemy. Should there be limits on the use of negativity with when leveraging rhetorical ethos; why are why not?
-
-Describe the rhetorical ethos surrounding a social issue?
+XXXX. XXX?
 
 #### Tuesday
 
-- Humphrey, M. (2021, February 8). *I analyzed all of Trump’s tweets to find out what he was really saying* [Non-Profit Independent News]. The Conversation. <http://theconversation.com/i-analyzed-all-of-trumps-tweets-to-find-out-what-he-was-really-saying-154532>
-- **Due: Ethos Discussion Post 3 (Tue, Mar 16, 2021)**
+- Chason, R., & Schmidt, S. (2016, January 14). *The freedom to assemble, in two acts* [Newspaper]. Washington Post. <https://www.washingtonpost.com/dc-md-va/interactive/2021/blm-protest-capitol-riot-police-comparison/>
+- **Due: Ethos Discussion Post 1 (Tue, Mar 09, 2021)**
 
 #### Thursday
 
-- **Due: Ethos Project (Thu, Mar 18, 2021)**
+- **Due: Ethos Project (Thu, Mar 11, 2021)**
 
 ### Week Eleven: Kairos (Opens Tuesday, March 23, 2021)
 
