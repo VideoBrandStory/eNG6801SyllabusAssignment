@@ -44,7 +44,6 @@ Assignments include weekly discussions with fellow classmates.
 
 This class will require Internet access and a laptop in-class for some in-class readings. Additionally, students will need to be prepared to take notes during the weekly in-class discussions for their own use.
 
-- Kennedy, G. A. (2008). *The Art of Rhetoric in the Roman World: 300 BC-AD 300* (Vol. 2). Wipf and Stock Publishers.
 - Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
 - Roberts, W. Rhys. (2008). *Artistotle's The Art of Rhetoric*. Megaphone eBooks. Available for download at http://www.wendelberger.com/downloads/Aristotle_Rhetoric.pdf.
 
