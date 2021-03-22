@@ -115,61 +115,61 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 #### Thursday
 
 - Read: *Art of Rhetoric* - Book 1 Part 1 (4-9)
-- **Due: Activity Verification (Thurs, Jan 13, 2021)**
+- **Due: XXXX (Thurs, Jan 13, 2021)**
 
 ### Week Two: Logos (Opens Tuesday, January 19, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 ### Week Three: Logos (Opens Tuesday, January 26, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 ### Week Four: Logos (Opens Tuesday, February 02, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 ### Week Five: History of Pathos (Opens Tuesday, February 09, 2021)
 
 #### Tuesday
 
-- Read: *Understanding Rhetoric* - Issue # 3
+- Read: *Understanding Rhetoric* - Issue 3
 - Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post (Tues, Feb 09, 2021)**
 
 #### Thursday
 
-- Read: *Understanding Rhetoric* - Issue # 3
+- Read: *Understanding Rhetoric* - Issue 3
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thurs, Feb 11, 2021)**
 
@@ -177,13 +177,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Understanding Rhetoric* - Issue #8
+- Read: *Understanding Rhetoric* - Issue 8
 - Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post (Tues, Feb 16, 2021)**
 
 #### Thursday
 
-- Read: *Understanding Rhetoric* - Issue #8
+- Read: *Understanding Rhetoric* - Issue 8
 - Presentation on section by *scheduled student*
 - **Due: Discussion Post Response (Thurs, Feb 18, 2021)**
 
@@ -203,84 +203,84 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 ### Week Eight: Ancient Ethos (Opens Tuesday, March 02, 2021)
 
-In contrast to pathos which is a rhetorical persuasive appeal to human emotion, ethos relies upon the credibility of the person delivering the arguments. How is ethos being used by De Oratore as opposed to Donald Trump?
-
 #### Tuesday
 
 - Read: *Art of Rhetoric* - Book 2, Parts 12-17
+- Presentation on section by *scheduled student*
 
 #### Thursday
 
 - Read: *Critical Studies on Security* https://doi.org/10.1080/21624887.2017.1355157
+- Presentation on section by *scheduled student*
 - **Due: Ethos Discussion Post 1 (Thu, March 04, 2021)**
 
 ### Week Nine: Ethos and Society (Opens Tuesday, March 09, 2021)
 
-Just because you can, does not mean you should. However, a skilled rhetorician should skillfully understand both sides of any arguments. What role does ethos play in Trump's use of Twitter?
-
 #### Tuesday
 
-- Read: *Understanding Rhetoric* - Issue #4
+- Read: *Understanding Rhetoric* - Issue 4
+- Presentation on section by *scheduled student*
 
 #### Thursday
 
 - Read: *Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter* https://doi.org/10.1016/j.langcom.2019.09.003
+- Presentation on section by *scheduled student*
 - **Due: Ethos Discussion Post 2 (Thu, Mar 11, 2021)**
 
 ### Week Ten: Ethos and Negativity (Opens Tuesday, March 16, 2021)
 
-Negativity can be used in a rhetorical argument to arrest attention or unite people behind a common enemy. Should there be limits on the use of negativity with when leveraging rhetorical ethos; why are why not?
-
 #### Tuesday
 
 - Read: *I analyzed all of Trump’s tweets to find out what he was really saying* http://theconversation.com/i-analyzed-all-of-trumps-tweets-to-find-out-what-he-was-really-saying-154532>
+- Presentation on section by *scheduled student*
 - **Due: Ethos Discussion Post 3 (Tue, Mar 16, 2021)**
 
 #### Thursday
 
+- Presentation on section by *scheduled student*
 - **Due: Ethos Project (Thu, Mar 18, 2021)**
 
 ### Week Eleven: Kairos (Opens Tuesday, March 23, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 ### Week Twelve: Kairos (Opens Tuesday, March 30, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 ### Week Thirteen: Kairos (Opens Tuesday, April 06, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 ### Week Fourteen: SPRING BREAK (Opens Tuesday, April 13, 2021)
 
@@ -288,15 +288,15 @@ Negativity can be used in a rhetorical argument to arrest attention or unite peo
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- Read: *Title of BOOK: Capital letter also for subtitle* - XXXX
+- Presentation on section by *scheduled student*
+- **Due: XXXX (Day, Month 00, 2021)**
 
 ### Week Sixteen: Final (Opens Tuesday, May 04, 2021)
 
