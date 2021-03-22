@@ -1,8 +1,5 @@
 # ENC 1010: Intro to Rhetoric
 
-# Class meeting time: Tuesday/Thursday XX:XX - XX:XX
-# Modality: Face to Face
-
 - **Instructor:** Christopher C. Odom, <christopher.odom@knights.ucf.edu>
 - **Instructor:** Stephanie Garcia, <garciastephanie@knights.ucf.edu>
 - **Instructor:** Matt Stapleton, <matthew.stapleton@ucf.edu>
