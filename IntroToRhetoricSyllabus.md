@@ -247,13 +247,13 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *HashtagActivism* - Introduction
+- Read: *HashtagActivism* - Introduction (Available on Webcourses)
 - In-class discussion of rhetoric in social issues
 - **Due: Initial Discussion Post Week 14 (Tue, April 20, 2021)**
 
 #### Thursday
 
-- Read: *A Case for Counterstory* - 6 Coalitional Action
+- Read: *A Case for Counterstory* - 6 Coalitional Action (Available on Webcourses)
 - **Due: Discussion Post Response Week 14 (Thu, April 22, 2021)**
 
 ### Week Sixteen: Final (Opens Tuesday, May 04, 2021)
