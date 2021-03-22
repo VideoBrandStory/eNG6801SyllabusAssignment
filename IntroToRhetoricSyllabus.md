@@ -138,7 +138,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *Rhetoric and the Anti-Logos Doughball* by Rosa Eberly - Available on Webcourses
+- Read: *Rhetoric and the Anti-Logos Doughball* by Rosa Eberly (Available on Webcourses)
 - In-class discussion of Logos Major Writing Assignment
 - **Due: Logos Major Assignment (Fri, Feb 5, 2021)**
 
@@ -233,7 +233,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Thursday
 
-- Read: *Time, Times and the 'Right Time'* by John Smith - Available on Webcourses
+- Read: *Time, Times and the 'Right Time'* by John Smith (Available on Webcourses)
 - **Due: Discussion Post Response 11 (Thu, Mar 25, 2021)**
 
 ### Week Twelve: Modern Kairos (Opens Tuesday, March 30, 2021)
@@ -252,7 +252,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Tuesday
 
-- Read: *It's Complicated: The Social Lives of Networked Teens* by danah boyd - Available on Webcourses
+- Read: *It's Complicated: The Social Lives of Networked Teens* by danah boyd (Available on Webcourses)
 - **Due: Major Kairos Assignment Due Friday, April 9, 2021**
 
 #### Thursday
