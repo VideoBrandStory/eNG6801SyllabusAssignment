@@ -30,11 +30,11 @@ Assignments include weekly discussions with fellow classmates.
 
 ## Course Objectives
 
-- Develop XXXX
-- Explore XXXX
-- Analyze XXXX
-- Situate arguments in XXXX
-- Critique XXXX
+- Develop skills
+- Explore ideas
+- Analyze theories
+- Situate arguments in rhetoric
+- Critique arguments
 
 ---
 
@@ -59,10 +59,10 @@ Additional recommended readings will be...
 | Points  | Assignment  | Due Date  |
 |---|---|---|
 | 00 | **Activity Verification** - Complete the brief survey posted on Webcourses as soon as possible to confirm your enrollment in the course.  | Tuesday, January 12, 2021  |
-| 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on tuesday's and two reponses weekly on thursday's  |
+| 10 | **Discussion** - Weekly discussions will consist of sharing preliminary readings and arguments, as well as progress towards the final paper. | Initial post due weekly on Tuesday's and two reponses weekly on Thursday's  |
 | 20 | **Presentation** - Choose an article you would like to present to the class. You are expected to become the subject matter expert on the reading and will answer any questions classmates may have following your powerpoint presentation. Presentations will be no more than 10 minutes.  | Students will choose their presentation date  |
-| 40 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
-| 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
+| 20 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
+| 20 | **Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
 | 00 | **XXXX** - XXXX.  | Day, Month 00, 2021  |
@@ -154,43 +154,43 @@ Additional recommended readings will be...
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Tues, Feb 09, 2021)**
+- Read: Understanding Rhetoric - Issue # 3
+- Presentation on section by *scheduled student*
+- **Due: Initial Discussion Post (Tues, Feb 09, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Thurs, Feb 11, 2021)**
+- Read: Understanding Rhetoric - Issue # 3
+- Presentation on section by *scheduled student*
+- **Due: Discussion Post Response (Thurs, Feb 11, 2021)**
 
 ### Week Six: Modern Pathos (Opens Tuesday, February 16, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Tues, Feb 16, 2021)**
+- Read: Understanding Rhetoric - Issue #8
+- Presentation on section by *scheduled student*
+- **Due: Initial Discussion Post (Tues, Feb 16, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Thurs, Feb 18, 2021)**
+- Read: Understanding Rhetoric - Issue #8
+- Presentation on section by *scheduled student*
+- **Due: Discussion Post Response (Thurs, Feb 18, 2021)**
 
 ### Week Seven: Applying Pathos (Tuesday, February 23, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Tues, Feb 23, 2021)**
+- Read: Digital Griots - Part 2
+- Presentation on section by *scheduled student*
+- **Due: Initial Discussion Post (Tues, Feb 23, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Thurs, Feb 25, 2021)**
+- Read: Race, Rhetoric, and Technology - Chapter 2
+- Presentation on section by *scheduled student*
+- **Due: Discussion Post Response (Thurs, Feb 25, 2021)**
 
 ### Week Eight: Ethos (Opens Tuesday, March 02, 2021)
 
@@ -292,19 +292,15 @@ Additional recommended readings will be...
 - Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
 - **Due: Activity Verification (Day, Month 00, 2021)**
 
-### Week Sixteen: Title (Opens Tuesday, May 04, 2021)
+### Week Sixteen: Final (Opens Tuesday, May 04, 2021)
 
 #### Tuesday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- **Due: Final Paper (Tuesday, May 04, 2021)**
 
 #### Thursday
 
-- Author, A. A. (Year of publication). *Title of BOOK: Capital letter also for subtitle*. Publisher Name. DOI (if available)
-- Author, A. A., Author, B. B., & Author, C. C. (Year of publication). Title of ARTICLE. *Title of Periodical, volume number*(issue number), pages. <https://doi.org/xx.xxx/yyyy>
-- **Due: Activity Verification (Day, Month 00, 2021)**
+- **Due: Group Project (Thursday, May 06, 2021)**
 
 ---
 
@@ -315,7 +311,7 @@ Additional recommended readings will be...
 - Weekly Discussion Post: Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
 - Presentation: Students will choose an article of their preferance and present it to the class. Students will present a powerpoint on the article and be able to answer any questions their classmates might have on it.
 - Final Paper: Students will complete a 1000 word essay on a topic of their choice centered around a form of Rhetoric.
-
+- Group Poject: Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
 
 
 ### Academic Activity Verification
