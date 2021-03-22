@@ -65,12 +65,12 @@ Additional articles and select chapters are noted in the Weekly Syllabus, and wi
 
 ## Assignment Overviews
 
-- *Academic Verification:* Students must complete a brief one question quiz to satisfy enrollment verification.
-- *Introductory Post:* Students will respond to introduction discussion post and write a brief intro about research goals, interests, and background.
-- *Weekly Discussion Post:* Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
-- *Participation:* Students will engage in-class with their instructor and with one another during lectures and group discussions. These discussions are important as they serve as the basis for our learning activities, and as such student participation is essential.
-- *Major Assignments:* Each section of this course, divided into rhetorical building blocks, will have its own different major assignment. Details on each assignment can be found under the "Files -> Major Assignments" section under the appropriate subheading.
-- *Group Project:* Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
+- **Academic Verification:** Students must complete a brief one question quiz to satisfy enrollment verification.
+- **Introductory Post:** Students will respond to introduction discussion post and write a brief intro about research goals, interests, and background.
+- **Weekly Discussion Post:** Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
+- **Participation:** Students will engage in-class with their instructor and with one another during lectures and group discussions. These discussions are important as they serve as the basis for our learning activities, and as such student participation is essential.
+- **Major Assignments:** Each section of this course, divided into rhetorical building blocks, will have its own different major assignment. Details on each assignment can be found under the "Files -> Major Assignments" section under the appropriate subheading.
+- **Group Project:** Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
 
 ### Academic Activity Verification
 
