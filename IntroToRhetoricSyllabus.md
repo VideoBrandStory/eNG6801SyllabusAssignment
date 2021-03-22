@@ -139,55 +139,52 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 #### Tuesday
 
 - Read: *Rhetoric and the Anti-Logos Doughball* by Rosa Eberly - Available on Webcourses
-- In-class discussion of First Major Writing Assignment
-- **Due: First Major Assignment (Friday, February 5, 2021)**
+- In-class discussion of Logos Major Writing Assignment
+- **Due: Logos Major Assignment (Fri, Feb 5, 2021)**
 
 #### Thursday
 
 - In-class review of logos
-- **Due: First Major Assignment (Friday, February 5, 2021)**
+- **Due: Logos Major Assignment (Fri, Feb 5, 2021)**
 
 ### Week Five: History of Pathos (Opens Tuesday, February 09, 2021)
 
 #### Tuesday
 
 - Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 3
-- Presentation on section by *scheduled student*
-- **Due: Initial Discussion Post (Tue, Feb 09, 2021)**
+- **Due: Initial Discussion Post Week 5 (Tue, Feb 09, 2021)**
 
 #### Thursday
 
 - Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 3
-- Presentation on section by *scheduled student*
-- **Due: Discussion Post Response (Thur, Feb 11, 2021)**
+- **Due: Discussion Post Response Week 5 (Thu, Feb 11, 2021)**
 
 ### Week Six: Modern Pathos (Opens Tuesday, February 16, 2021)
 
 #### Tuesday
 
 - Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 8
-- Presentation on section by *scheduled student*
-- **Due: Initial Discussion Post (Tue, Feb 16, 2021)**
+- **Due: Initial Discussion Post Week 6 (Tue, Feb 16, 2021)**
 
 #### Thursday
 
 - Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 8
 - Presentation on section by *scheduled student*
-- **Due: Discussion Post Response (Thur, Feb 18, 2021)**
+- **Due: Discussion Post Response Week 6 (Thu, Feb 18, 2021)**
 
 ### Week Seven: Applying Pathos (Tuesday, February 23, 2021)
 
 #### Tuesday
 
-- Read: *Digital Griots* by Adam J. Bnaks - Part 2
-- Presentation on section by *scheduled student*
-- **Due: Initial Discussion Post (Tue, Feb 23, 2021)**
+- Read: *Digital Griots* by Adam J. Banks - Part 2
+- In-class discussion of Pathos Major Assignment
+- **Due: Pathos Major Assignment (Fri, Feb 26, 2021)**
 
 #### Thursday
 
 - Read: *Race, Rhetoric, and Technology* by Adam J. Banks - Chapter 2
-- Presentation on section by *scheduled student*
-- **Due: Discussion Post Response (Thur, Feb 25, 2021)**
+- In-class review of pathos
+- **Due: Pathos Major Assignment (Fri, Feb 26, 2021)**
 
 ### Week Eight: Ancient Ethos (Opens Tuesday, March 02, 2021)
 
@@ -206,7 +203,6 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 #### Tuesday
 
 - Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 4
-- Presentation on section by *scheduled student*
 - **Due: Initial Discussion Post Week 9 (Tue, March 09, 2021)**
 
 
@@ -233,24 +229,24 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 #### Tuesday
 
 - Read: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 3 Parts 14-17 (213-232)
-- **Due: Initial Discussion Post Week 11**
+- **Due: Initial Discussion Post Week 11 (Tue, Mar 23, 2021)**
 
 #### Thursday
 
 - Read: *Time, Times and the 'Right Time'* by John Smith - Available on Webcourses
-- **Due: Discussion Post Response 11**
+- **Due: Discussion Post Response 11 (Thu, Mar 25, 2021)**
 
 ### Week Twelve: Modern Kairos (Opens Tuesday, March 30, 2021)
 
 #### Tuesday
 
 - Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 7
-- **Due: Initial Discussion Post Week 12**
+- **Due: Initial Discussion Post Week 12 (Tue, Mar 30, 2021)**
 
 #### Thursday
 
 - Bring to class: An example of an advertisement and define the kairotic situation
-- **Due: Discussion Post Response Week 12**
+- **Due: Discussion Post Response Week 12 (Thu, April 1, 2021)**
 
 ### Week Thirteen: Application of Kairos (Opens Tuesday, April 06, 2021)
 
@@ -271,6 +267,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 #### Tuesday
 
 - Read: *HashtagActivism* - Introduction
+- In-class discussion of rhetoric in social issues
 - **Due: Initial Discussion Post Week 14 (Tue, April 20, 2021)**
 
 #### Thursday
