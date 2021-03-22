@@ -129,7 +129,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 - In-class review of logos
 - **Due: Logos Major Assignment (Fri, Feb 5, 2021)**
 
-### Week Five: History of Pathos (Opens Tuesday, February 09, 2021)
+### Week Five: Introduction to Pathos (Opens Tuesday, February 09, 2021)
 
 #### Tuesday
 
