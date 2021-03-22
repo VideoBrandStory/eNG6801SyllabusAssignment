@@ -151,7 +151,6 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 #### Thursday
 
 - Read: *Understanding Rhetoric* by Elizabeth Losh et al. - Issue 8
-- Presentation on section by *scheduled student*
 - **Due: Discussion Post Response Week 6 (Thu, Feb 18, 2021)**
 
 ### Week Seven: Applying Pathos (Tuesday, February 23, 2021)
