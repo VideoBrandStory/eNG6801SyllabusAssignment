@@ -194,7 +194,7 @@ Additional recommended readings will be...
 
 ### Week Eight: Ethos (Opens Tuesday, March 02, 2021)
 
-XXXX. XXX?
+XXXX. How is ethos being used by De Oratore as opposed to Donald Trump?
 
 #### Tuesday
 
@@ -202,12 +202,12 @@ XXXX. XXX?
 
 #### Thursday
 
-- Drakulich, K., Wozniak, K. H., Hagan, J., & Johnson, D. (2020). Race and policing in the 2016 presidential election: Black lives matter, the police, and dog whistle politics. *Criminology, 58* (2), 370–402. <https://doi.org/10.1111/1745-9125.12239>
-- **Due: Ethos Discussion Post 1 (Tues, March 02, 2021)**
+- Holland, J., & Fermor, B. (2017). Trump’s rhetoric at 100 days: Contradictions within effective emotional narratives. *Critical Studies on Security, 5*(2), 182–186. <https://doi.org/10.1080/21624887.2017.1355157>
+- **Due: Ethos Discussion Post 1 (Thu, March 04, 2021)**
 
 ### Week Nine: Ethos (Opens Tuesday, March 09, 2021)
 
-XXXX. XXX?
+XXXX. What role does ethos play in Trump's use of Twitter?
 
 #### Tuesday
 
@@ -215,21 +215,21 @@ XXXX. XXX?
 
 #### Thursday
 
-- Mason, G. (2020). Blue lives matter and hate crime law. *Race and Justice*. <https://doi.org/10.1177/2153368720933665>
-- **Due: Ethos Discussion Post 2 (Thu, Mar 04, 2021)**
+- Ross, A. S., & Caldwell, D. (2020). ‘Going negative’: An APPRAISAL analysis of the rhetoric of Donald Trump on Twitter. *Language & Communication, 70*, 13–27. <https://doi.org/10.1016/j.langcom.2019.09.003>
+- **Due: Ethos Discussion Post 2 (Thu, Mar 11, 2021)**
 
 ### Week Ten: Ethos (Opens Tuesday, March 16, 2021)
 
-XXXX. XXX?
+XXXX. Describe the rhetorical ethos surrounding a social issue?
 
 #### Tuesday
 
-- Chason, R., & Schmidt, S. (2016, January 14). *The freedom to assemble, in two acts* [Newspaper]. Washington Post. <https://www.washingtonpost.com/dc-md-va/interactive/2021/blm-protest-capitol-riot-police-comparison/>
-- **Due: Ethos Discussion Post 1 (Tue, Mar 09, 2021)**
+- Humphrey, M. (2021, February 8). *I analyzed all of Trump’s tweets to find out what he was really saying* [Non-Profit Independent News]. The Conversation. <http://theconversation.com/i-analyzed-all-of-trumps-tweets-to-find-out-what-he-was-really-saying-154532>
+- **Due: Ethos Discussion Post 3 (Tue, Mar 16, 2021)**
 
 #### Thursday
 
-- **Due: Ethos Project (Thu, Mar 11, 2021)**
+- **Due: Ethos Project (Thu, Mar 18, 2021)**
 
 ### Week Eleven: Kairos (Opens Tuesday, March 23, 2021)
 
