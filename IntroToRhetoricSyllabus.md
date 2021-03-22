@@ -1,5 +1,8 @@
 # ENC 1010: Intro to Rhetoric
 
+# Class meeting time: Tuesday/Thursday XX:XX - XX:XX
+# Modality: Face to Face
+
 - **Instructor:** Christopher C. Odom, <christopher.odom@knights.ucf.edu>
 - **Instructor:** Stephanie Garcia, <garciastephanie@knights.ucf.edu>
 - **Instructor:** Matt Stapleton, <matthew.stapleton@ucf.edu>
@@ -38,6 +41,8 @@ Assignments include weekly discussions with fellow classmates.
 
 ## Materials and Texts
 
+This class will require Internet access and a laptop in-class for some in-class readings. Additionally, students will need to be prepared to take notes during the weekly in-class discussions for their own use.
+
 For the class readings, you will need to acquire:
 
 - Losh, E., Alexander, J., Cannon, K., & Cannon Z. (2020). *Understanding Rhetoric: A Graphic Guide to Writing* (Third edition). Bedford/St. Martin’s.
@@ -67,7 +72,7 @@ Additional recommended readings will be...</strike>
 | 20 | **Final Paper** - Students will write a 1000 word essay on a topic of their choice. Paper must focus around a topic in Rhetoric and display understanding of course readings.  | Tuesday, May 04, 2021  |
 | 20 | **Group Project** - Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.  | Thursday, May 06, 2021  |
 | 20 | **Participation** - Student participation will be based on in-class discussion with classmates and attention during class.
-| 10 | **Attendance** - Student attendance is important for this course, being centered around Socratic seminars.
+| 10 | **Attendance** - Student attendance is important for this course, with learning being centered around in-class and digital discussion.
 
 ---
 
@@ -81,6 +86,23 @@ Additional recommended readings will be...</strike>
 77-79 C+
 74-76 C
 70-73 C-
+
+---
+
+## Assignment Overviews
+
+- Academic Verification: Students must complete a brief one question quiz to satisfy enrollment verification.
+- Introductory Post: Students will respond to introduction discussion post and write a brief intro about research goals, interests, and background.
+- Weekly Discussion Post: Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
+- Participation: Students will engage in-class with their instructor and with one another during lectures and group discussions. These discussions are important as they serve as the basis for our learning activities, and as such student participation is essential.
+- Presentation: Students will choose an article of their preference and present it to the class. Students will present a powerpoint on the article and be able to answer any questions their classmates might have on it.
+- Final Paper: Students will complete a 1000 word essay on a topic of their choice centered around a form of Rhetoric.
+- Group Project: Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
+
+
+### Academic Activity Verification
+
+We make you do this for financial aid, even if you don't have any. It's basically the "are you a robot?" of higher education.
 
 ---
 
@@ -296,22 +318,6 @@ XXXX. XXX?
 #### Thursday
 
 - **Due: Group Project (Thursday, May 06, 2021)**
-
----
-
-## Assignment Overviews
-
-- Academic Verification: Students must complete a brief one question quiz to satisfy enrollment verification.
-- Introductory Post: Students will respond to introduction discussion post and write a brief intro about research goals, interests, and background.
-- Weekly Discussion Post: Students will complete weekly readings and display understanding through a discussion post on corresponding thread. Initial post on summary of reading and any questions you would like to ask will be due every Tuesday night before class. At least one response to a classmate is due every Thursday night before class.
-- Presentation: Students will choose an article of their preference and present it to the class. Students will present a powerpoint on the article and be able to answer any questions their classmates might have on it.
-- Final Paper: Students will complete a 1000 word essay on a topic of their choice centered around a form of Rhetoric.
-- Group Project: Students will create a rhetorical argument centered around a social issue on campus, using social media as a platform.
-
-
-### Academic Activity Verification
-
-We make you do this for financial aid, even if you don't have any. It's basically the "are you a robot?" of higher education.
 
 ---
 
