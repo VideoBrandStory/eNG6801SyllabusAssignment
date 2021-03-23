@@ -89,14 +89,14 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Thursday
 
-- Read for class: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 1 Part 1 (4-9)
+- Read: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 1 Part 1 (4-9)
 - **Due: Activity Verification (By Fri, Jan 15, 2021)**
 
 ### Week Two: Classical Logos (Opens Tuesday, January 19, 2021)
 
 #### Tuesday
 
-- Read for class: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 1 Parts 2-3 (10-20)
+- Read: *Aristotle's Art of Rhetoric* by W. Rhys Roberts - Book 1 Parts 2-3 (10-20)
 - **Due: Initial Discussion Post Week 2**
 
 #### Thursday
@@ -113,7 +113,7 @@ We make you do this for financial aid, even if you don't have any. It's basicall
 
 #### Thursday
 
-- Bring to class: An example of an advertisement that only uses logos
+- In-class discussion of examples of advertisements that use logos
 - **Due: Discussion Post Response Week 3**
 
 ### Week Four: Applying Logos (Opens Tuesday, February 02, 2021)
